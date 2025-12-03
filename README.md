@@ -198,10 +198,12 @@ This tutorial was created as part of the Portfolio Developer work-study program 
 
 ## 📞 Contact & Support
 
-Created by: Colby Gillette 
-Role: Portfolio Developer - Work Study Program
-Institution: Kilgore College CIT Program
-Program: Associate of Applied Science in Cybersecurity & Networking
+##### Created by: Colby Gillette 
+##### Role: Portfolio Developer - Work Study Program
+##### Institution: Kilgore College CIT Program
+##### Program: Associate of Applied Science in Cybersecurity & Networking
+
+---
 
 This tutorial was created to help CIT students build professional technical portfolios using industry-standard tools and practices.
 
