@@ -198,7 +198,7 @@ This tutorial was created as part of the Portfolio Developer work-study program 
 
 ## 📞 Contact & Support
 
-**Created by:** Colby  
+**Created by:** Colby Gillette 
 **Role:** Portfolio Developer - Work Study Program  
 **Institution:** Kilgore College CIT Program  
 **Program:** Associate of Applied Science in Cybersecurity & Networking  
