@@ -9,9 +9,9 @@ This repository contains everything you need to create a standout portfolio for 
 ## 📚 What's Inside
 
 - **Video Tutorial Series** - Step-by-step guides to building your portfolio
-- **Markdown Reference Guide** - Complete syntax reference with examples
-- **Example Portfolio** - Chad Hackerman's portfolio as a practical template
-- **Project Templates** - Copy-paste templates for documenting your work
+- **[Markdown Reference Guide](https://github.com/Coybo/hedgedoc-tutorial-demo/blob/main/Introduction_to_HedgeDoc.md)** - Complete syntax reference with examples
+- **[Example Portfolio](https://github.com/Coybo/hedgedoc-tutorial-demo/tree/main/example-portfolio)** - Chad Hackerman's portfolio as a practical template
+- **[Project Templates](https://github.com/Coybo/hedgedoc-tutorial-demo/tree/main/templates)** - Copy-paste templates for documenting your work
 - **Best Practices** - Tips for making your portfolio stand out to recruiters
 
 ---
@@ -71,23 +71,23 @@ hedgedoc-tutorial-demo/
 ### Option 1: Follow Along (Recommended for Beginners)
 
 1. **Watch the videos** - Follow along as we build Chad Hackerman's portfolio from scratch
-2. **Reference the guide** - Keep `Introduction_to_HedgeDoc.md` open while you work
+2. **Reference the guide** - Keep [`Introduction_to_HedgeDoc.md`](https://github.com/Coybo/hedgedoc-tutorial-demo/blob/main/Introduction_to_HedgeDoc.md) open while you work
 3. **Practice in HedgeDoc** - Try the examples yourself in real-time
 4. **Build your own** - Replace Chad's info with your actual experience
 
 ### Option 2: Use as a Template (For Quick Setup)
 
 1. **Fork this repository** to your own GitHub account
-2. **Navigate to `example-portfolio/`** and copy the structure
+2. **Navigate to [`example-portfolio/`](https://github.com/Coybo/hedgedoc-tutorial-demo/tree/main/example-portfolio)** and copy the structure
 3. **Replace Chad's information** with your own details
 4. **Customize project files** with your actual work
 5. **Update images** with your screenshots and diagrams
 
 ### Option 3: Start from Scratch (For Learning)
 
-1. **Read `Introduction_to_HedgeDoc.md`** for complete markdown syntax
-2. **Use blank templates** from the `templates/` folder
-3. **Reference `example-portfolio/`** when you get stuck
+1. **Read [`Introduction_to_HedgeDoc.md`](https://github.com/Coybo/hedgedoc-tutorial-demo/blob/main/Introduction_to_HedgeDoc.md)** for complete markdown syntax
+2. **Use blank templates** from the [`templates/`](https://github.com/Coybo/hedgedoc-tutorial-demo/tree/main/templates) folder
+3. **Reference [`example-portfolio/`](https://github.com/Coybo/hedgedoc-tutorial-demo/tree/main/example-portfolio)** when you get stuck
 4. **Build incrementally** - start with basics, add complexity over time
 
 ---
@@ -109,7 +109,7 @@ Throughout the video tutorials, we build a portfolio for **Chad Hackerman**, a f
 ## 📖 Key Resources
 
 ### Markdown Reference
-**[Introduction_to_HedgeDoc.md](./Introduction_to_HedgeDoc.md)** - Your complete guide to markdown syntax including:
+**[Introduction_to_HedgeDoc.md](https://github.com/Coybo/hedgedoc-tutorial-demo/blob/main/Introduction_to_HedgeDoc.md)** - Your complete guide to markdown syntax including:
 - Headers and text formatting
 - Lists (ordered, unordered, nested)
 - Links and navigation
@@ -118,9 +118,9 @@ Throughout the video tutorials, we build a portfolio for **Chad Hackerman**, a f
 - Best practices and common mistakes
 
 ### Example Files
-- **[Chad's Resume](./example-portfolio/README.md)** - Main portfolio page
-- **[Project Documentation Examples](./example-portfolio/projects/)** - See how to document your work in detail
-- **[Blank Templates](./templates/)** - Starting points for your own content
+- **[Chad's Resume](https://github.com/Coybo/hedgedoc-tutorial-demo/blob/main/example-portfolio/README.md)** - Main portfolio page
+- **[Project Documentation Examples](https://github.com/Coybo/hedgedoc-tutorial-demo/tree/main/example-portfolio/projects)** - See how to document your work in detail
+- **[Blank Templates](https://github.com/Coybo/hedgedoc-tutorial-demo/tree/main/templates)** - Starting points for your own content
 
 ---
 
@@ -192,24 +192,24 @@ This tutorial was created as part of the Portfolio Developer work-study program 
 
 **Found a typo?** Open an issue!  
 **Have a suggestion?** Submit a pull request!  
-**Need help?** Reach out during work-study hours or open a discussion.
+
 
 ---
 
 ## 📞 Contact & Support
 
-**Created by:** Colby Gillette 
-**Role:** Portfolio Developer - Work Study Program  
-**Institution:** Kilgore College CIT Program  
-**Program:** Associate of Applied Science in Cybersecurity & Networking  
+Created by: Colby Gillette 
+Role: Portfolio Developer - Work Study Program
+Institution: Kilgore College CIT Program
+Program: Associate of Applied Science in Cybersecurity & Networking
 
 This tutorial was created to help CIT students build professional technical portfolios using industry-standard tools and practices.
 
 For questions or feedback:
-- **GitHub Issues** - Report bugs or suggest improvements
-- **GitHub Discussions** - Ask questions and share your portfolios
-- **Pull Requests** - Contribute improvements to the tutorial
 
+- GitHub Issues - Report bugs or suggest improvements
+- GitHub Discussions - Ask questions and share your portfolios
+- Pull Requests - Contribute improvements to the tutorial
 ---
 
 ## 📜 License
@@ -227,7 +227,6 @@ This tutorial and all templates are provided for educational use by Kilgore Coll
 
 ---
 
-**Ready to build your portfolio?** Start with [Video 1](#) and the [Markdown Reference Guide](./Introduction_to_HedgeDoc.md)!
+**Ready to build your portfolio?** Start with [Video 1](#) and the [Markdown Reference Guide](https://github.com/Coybo/hedgedoc-tutorial-demo/blob/main/Introduction_to_HedgeDoc.md)!
 
 *Last Updated: December 2025*
-
